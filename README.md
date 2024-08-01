@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)]
 <h1 align="center">Hi 👋, I'm Rashmi Ranjan Meher</h1>
-<h3 align="center">I am a dedicated Data analyst from India, with a passion for uncovering insights and making data-driven decisions. I thrive on transforming raw data into actionable strategies and meaningful stories. Let's connect and harness the power of data together! 📊</h3>
+<h3 align="center">I am a dedicated Data analyst from India, with a passion for uncovering insights and making data-driven decisions. 📊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/media/55f903b73d522b0a4595f99a1f7a6882.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrm995&label=Profile%20views&color=0e75b6&style=flat" alt="rrm995" /> </p>
